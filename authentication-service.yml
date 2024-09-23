@@ -24,7 +24,7 @@ baseuri:
  
 internal:
   auth:
-  token: secret-token
+    token: secret-token
    
 eureka:
   client:
